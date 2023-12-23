@@ -12,5 +12,8 @@ creating enriched files and uploads them over SSH to SFTP server on AWS linked t
 From "raw" storage new files are transfered into the staging bucket and from there data is loaded 
 into Postgres database instance which functions as a serving layer for reporting via Tableau.
 
+<img width="799" alt="image" src="https://github.com/StephanKnox/TOP_250_IMDB_MOVIES/assets/123996543/4f6a9646-1c16-48f8-85bc-bbefcf813f20">
+
+
 
 
