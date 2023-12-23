@@ -1,6 +1,6 @@
 # TOP_250_IMDB_MOVIES
 
-This project's goal is to analyze TOP 250 movies ever created according to IMDB ranking and compare it with my 
+This project's goal is to analyze 250 best movies ever created according to IMDB ranking and compare it with my 
 personal movie preferences.
 
 It consists of the input file containing TOP 250 IMDB movie titles, raw and staging S3 buckets, one of them linked to SFTP server, Postgres DB instance on RDS AWS as a serving layer and a Tableau dashboard. 
