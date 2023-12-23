@@ -1,4 +1,4 @@
-# TOP_250_IMDB_MOVIES
+# TOP 250 IMDB MOVIES
 
 This project's goal is to analyze 250 best movies ever created according to IMDB ranking and compare it with my 
 personal movie preferences.
