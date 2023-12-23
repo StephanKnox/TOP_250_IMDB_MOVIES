@@ -3,7 +3,7 @@
 This project's goal is to analyze TOP 250 movies ever created according to IMDB ranking and compare it with my 
 personal movie preferences.
 
-It consists of the input file containing TOP 250 IMDB movie titles, raw and staging S3 buckets, one of them linked to SFTP server, Postgres DB instance on RDS AWS as a serving layer and a Tableau report. 
+It consists of the input file containing TOP 250 IMDB movie titles, raw and staging S3 buckets, one of them linked to SFTP server, Postgres DB instance on RDS AWS as a serving layer and a Tableau dashboard. 
 All data ingestion and orchestration is performed via a python script "app.py" which acts as an entry point to the application. 
 Shell script "split_file.sh" splits the input file into 5 parts before making request to OMDB API.
 In order not to overburden API interface requests are performed at a rate limit of 25 calls per minute.
