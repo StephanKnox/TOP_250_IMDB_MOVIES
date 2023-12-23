@@ -14,7 +14,7 @@ From "raw" storage new files are transfered into the staging bucket and from the
 into Postgres database instance which functions as a serving layer for reporting via Tableau.
 
 Tableau dashboard shows best movies per decade, genre, best years in cinematography quantified by me as when 
-number of good movies produced is 1.5 times higher than the average since 1900 as well as how my preferences
+number of good movies produced in a year is 1.5 times higher than the average per year from 1900 as well as how my preferences
 compare to IMDB rankings.
 
 <img width="799" alt="image" src="https://github.com/StephanKnox/TOP_250_IMDB_MOVIES/assets/123996543/4f6a9646-1c16-48f8-85bc-bbefcf813f20">
